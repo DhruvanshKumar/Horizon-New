@@ -1,1 +1,2 @@
-# Horizon-New
+# Horizon Website
+ Repo for horizon website
